@@ -1,0 +1,16 @@
+C:\Users\wabro\source\repos\Expresso\Expresso\bin\Debug\netstandard2.0\Expresso.deps.json
+C:\Users\wabro\source\repos\Expresso\Expresso\bin\Debug\netstandard2.0\Expresso.dll
+C:\Users\wabro\source\repos\Expresso\Expresso\bin\Debug\netstandard2.0\Expresso.pdb
+C:\Users\wabro\source\repos\Expresso\Expresso\obj\Debug\netstandard2.0\Expresso.csprojAssemblyReference.cache
+C:\Users\wabro\source\repos\Expresso\Expresso\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\wabro\source\repos\Expresso\Expresso\obj\Debug\netstandard2.0\Pages\HomePage.xaml.g.cs
+C:\Users\wabro\source\repos\Expresso\Expresso\obj\Debug\netstandard2.0\Pages\InfoPage.xaml.g.cs
+C:\Users\wabro\source\repos\Expresso\Expresso\obj\Debug\netstandard2.0\Pages\MenuPage.xaml.g.cs
+C:\Users\wabro\source\repos\Expresso\Expresso\obj\Debug\netstandard2.0\Pages\ReservationPage.xaml.g.cs
+C:\Users\wabro\source\repos\Expresso\Expresso\obj\Debug\netstandard2.0\Pages\SubMenuPage.xaml.g.cs
+C:\Users\wabro\source\repos\Expresso\Expresso\obj\Debug\netstandard2.0\Expresso.csproj.CoreCompileInputs.cache
+C:\Users\wabro\source\repos\Expresso\Expresso\obj\Debug\netstandard2.0\Expresso.AssemblyInfoInputs.cache
+C:\Users\wabro\source\repos\Expresso\Expresso\obj\Debug\netstandard2.0\Expresso.AssemblyInfo.cs
+C:\Users\wabro\source\repos\Expresso\Expresso\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\wabro\source\repos\Expresso\Expresso\obj\Debug\netstandard2.0\Expresso.dll
+C:\Users\wabro\source\repos\Expresso\Expresso\obj\Debug\netstandard2.0\Expresso.pdb

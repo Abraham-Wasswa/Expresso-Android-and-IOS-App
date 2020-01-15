@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Expresso</id>
+    <version>1.0.0</version>
+    <authors>Expresso</authors>
+    <owners>Expresso</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="Naxam.BottomTabbedPage" version="0.3.0.2" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json" version="12.0.2" exclude="Build,Analyzers" />
+        <dependency id="Xamarin.Essentials" version="1.3.0" exclude="Build,Analyzers" />
+        <dependency id="Xamarin.FFImageLoading.Forms" version="2.4.11.982" exclude="Build,Analyzers" />
+        <dependency id="Xamarin.Forms" version="4.1.0.555618" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\wabro\source\repos\Expresso\Expresso\bin\Release\netstandard2.0\Expresso.dll" target="lib\netstandard2.0\Expresso.dll" />
+  </files>
+</package>
